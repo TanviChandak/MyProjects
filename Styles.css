@@ -1,0 +1,19 @@
+
+.tool-bar{
+    margin: 10px;
+    height: 2rem;
+}
+.tool-bar img{
+   width: 16%;
+}
+.navbar{
+    padding:7px 14px 14px;
+    background-color: rgb(175, 139, 169) !important;
+    border-radius: 15%;
+}
+.nav-link{
+    font-size:x-large;
+}
+
+
+
